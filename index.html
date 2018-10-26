@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Eco bricks UK</title>
+    <title>Ecobricks Map</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Information about making bricks using left over plastic with a map of all the collection points in the UK">
-    <base href="//foamy-mouse.glitch.me/">
+    <base href="//momentous-sawfish.glitch.me/">
     <meta name="application-name" content="Eco Bricks UK">
     
     <!-- import the webpage's stylesheet -->
@@ -14,36 +14,45 @@
     <link rel="stylesheet" href="/style.css">
     <link rel="icon" href="https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Ffavicon.ico?1526784411193" type="image/x-icon">
     
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js" defer></script> 
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+    <script type="text/javascript" src="/sheetsee.js" defer></script>
+
+
+
+    <script type= "text/javascript" src="/script.js" defer></script>  
+
   </head>  
   <body>
     
-    <main class="cd-main-content">
-      
-		<div class="cd-fixed-bg cd-bg-1">
-			<h1>Eco Bricks UK</h1>
-		</div> <!-- cd-fixed-bg -->
+    <main>
 
-		<div class="cd-scrolling-bg cd-color-2">
+		<div class="cd-scrolling-bg">
 			<div class="cd-container">
+			  <h1>Ecobricks Map</h1>
         <p>
-          A group to help communities make and build with ecobricks to trap plastic waste and help educate just how much plastic is in our homes.
-        </p>
-        <p>
-          To add yourself onto the Ecobrick map, first join the <a href="https://www.facebook.com/groups/1639389892816439/">facebook group</a> then click on the button below
+          To add yourself to the map, first join the <a href="https://www.facebook.com/groups/1639389892816439/" target="_blank">Ecobricks UK facebook group</a> then click one of the buttons below to fill in the form 👇
         </p>
         
-        <form class="form" action="https://goo.gl/forms/508rPGXtvxVrWpmD2">
-          <button type="submit" class="btn">
+        <form class="form">
+          <div class="buttons">
+            <input type="hidden" name="entry.2016016023" value="Collecting" />
+            <button type="submit" formmethod="GET" formaction="https://docs.google.com/forms/d/e/1FAIpQLSf2AVrAjzTi8ZRO63ZI0PAH-TTw7BLmpzRGIW8kAnwjmfLZSA/viewform" class="btn">
             <p>
-              Add a collection point
+              I'm Collecting <img height="42" width="42" src="https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fcollecting.png?1537710709825"/>
             </p>
-          </button>
+            </button>
+            <button type="submit" formmethod="GET" formaction="https://docs.google.com/forms/d/e/1FAIpQLSf2AVrAjzTi8ZRO63ZI0PAH-TTw7BLmpzRGIW8kAnwjmfLZSA/viewform?entry.2016016023=Making" class="btn">
+              <p>
+                I'm Making<img height="42" width="42" src="https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fmaking.png?1537710718267"/>
+              </p>
+            </button>
+          </div>
+          
         </form>
         
-        
-        <div class="google-maps">
-          <iframe title="Collection points" src="https://www.google.com/maps/d/embed?mid=134HArNW2J_ABfvy0a5yAzJNWMXo9AX68&hl=en" width="640" height="480"></iframe>
-        </div>
+        <div id="map" class= "google-maps">Loading...</div>
+      
 			</div> <!-- cd-container -->
 		</div> <!-- cd-scrolling-bg -->
 	</main> <!-- cd-main-content -->
