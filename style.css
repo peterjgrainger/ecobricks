@@ -59,62 +59,13 @@ Modules - reusable parts of our design
   z-index: 1;
 }
 
-.cd-fixed-bg {
-  position: relative;
-  min-height: 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  z-index: 1;
-}
-.cd-fixed-bg h1, .cd-fixed-bg h2 {
-  position: absolute;
-  left: 50%;
-  top: 40%;
-  bottom: auto;
-  right: auto;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  -moz-transform: translateX(-50%) translateY(-50%);
-  -ms-transform: translateX(-50%) translateY(-50%);
-  -o-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-  width: 90%;
-  max-width: 1170px;
-  text-align: center;
-  font-size: 30px;
-  font-size: 1.875rem;
-  text-shadow:1px 1px 10px black,  
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-     1px 1px 0 #000;
-  color: white;
-}
-.cd-fixed-bg.cd-bg-1 {
-  background-image: url('https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Feco-bricks.jpg?1526782577172');
-}
-@media only screen and (min-width: 320px) {
-  .cd-fixed-bg h1, .cd-fixed-bg h2 {
-    font-size: 36px;
-  }
-}
-@media only screen and (min-width: 480px) {
-  .cd-fixed-bg {
-    background-attachment: fixed;
-  }
-  .cd-fixed-bg h1, .cd-fixed-bg h2 {
-    font-size: 60px;
-    font-weight: 300;
-    color: white;
-  }
-}
+
 
 .cd-scrolling-bg {
-  position: relative;
-  min-height: 50%;
   padding: 1em 0;
   line-height: 1.6;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-  z-index: 2;
+  text-align: center;
 }
 .cd-scrolling-bg.cd-color-1 {
   background-color: #3d3536;
@@ -145,9 +96,10 @@ Modules - reusable parts of our design
 .btn {
   font-family: inherit;
   font-size: inherit;
-  width: 80%;
+  width: 35%;
   margin-bottom: 5%
 }
+
 
 .form {
     text-align: center;
