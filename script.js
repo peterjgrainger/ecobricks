@@ -25,6 +25,8 @@ function handleClick(val){
     return true;
 }
 
+
+
 if ("geolocation" in navigator) {
   navigator.geolocation.getCurrentPosition(function(position) {
     var xmlhttp = new XMLHttpRequest();
