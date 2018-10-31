@@ -103,7 +103,7 @@ Modules - reusable parts of our design
   font-family: inherit;
   font-size: inherit;
    min-width:100px;
-   min-height:200px;
+   min-height:50px;
    text-align:center;
    line-height:1.1em;
   margin-bottom: 2%
