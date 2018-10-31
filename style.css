@@ -102,8 +102,11 @@ Modules - reusable parts of our design
 .btn {
   font-family: inherit;
   font-size: inherit;
-  width: 35%;
-  margin-bottom: 5%
+   min-width:100px;
+   min-height:200px;
+   text-align:center;
+   line-height:1.1em;
+  margin-bottom: 2%
 }
 
 
