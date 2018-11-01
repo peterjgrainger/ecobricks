@@ -1,19 +1,72 @@
-{"name":"drag-in-files.svg","date":"2016-10-22T16:17:49.954Z","url":"https://cdn.hyperdev.com/drag-in-files.svg","type":"image/svg","size":7646,"imageWidth":276,"imageHeight":276,"thumbnail":"https://cdn.hyperdev.com/drag-in-files.svg","thumbnailWidth":276,"thumbnailHeight":276,"dominantColor":"rgb(102, 153, 205)","uuid":"adSBq97hhhpFNUna"}
-{"name":"click-me.svg","date":"2016-10-23T16:17:49.954Z","url":"https://cdn.hyperdev.com/click-me.svg","type":"image/svg","size":7116,"imageWidth":276,"imageHeight":276,"thumbnail":"https://cdn.hyperdev.com/click-me.svg","thumbnailWidth":276,"thumbnailHeight":276,"dominantColor":"rgb(243, 185, 186)","uuid":"adSBq97hhhpFNUnb"}
-{"name":"paste-me.svg","date":"2016-10-24T16:17:49.954Z","url":"https://cdn.hyperdev.com/paste-me.svg","type":"image/svg","size":7242,"imageWidth":276,"imageHeight":276,"thumbnail":"https://cdn.hyperdev.com/paste-me.svg","thumbnailWidth":276,"thumbnailHeight":276,"dominantColor":"rgb(42, 179, 185)","uuid":"adSBq97hhhpFNUnc"}
-{"uuid":"adSBq97hhhpFNUna","deleted":true}
-{"uuid":"adSBq97hhhpFNUnb","deleted":true}
-{"uuid":"adSBq97hhhpFNUnc","deleted":true}
-{"name":"EcobrickPicture.jpg","date":"2018-05-18T13:28:14.355Z","url":"https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2FEcobrickPicture.jpg","type":"image/jpeg","size":339223,"imageWidth":2048,"imageHeight":1403,"thumbnail":"https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Fthumbnails%2FEcobrickPicture.jpg","thumbnailWidth":330,"thumbnailHeight":227,"dominantColor":"rgb(245,245,245)","uuid":"4YgqOAt2TL6yWzCd"}
-{"name":"eco-bricks.jpg","date":"2018-05-20T02:05:13.082Z","url":"https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Feco-bricks.jpg","type":"image/jpeg","size":20015,"imageWidth":275,"imageHeight":183,"thumbnail":"https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Feco-bricks.jpg","thumbnailWidth":275,"thumbnailHeight":183,"dominantColor":"rgb(53,59,54)","uuid":"lugVLnS23V73tvL6"}
-{"uuid":"4YgqOAt2TL6yWzCd","deleted":true}
-{"name":"eco-brick-instructions.jpg","date":"2018-05-20T02:10:21.622Z","url":"https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Feco-brick-instructions.jpg","type":"image/jpeg","size":339223,"imageWidth":2048,"imageHeight":1403,"thumbnail":"https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Fthumbnails%2Feco-brick-instructions.jpg","thumbnailWidth":330,"thumbnailHeight":227,"dominantColor":"rgb(245,245,245)","uuid":"7VbZynVAMql71u44"}
-{"uuid":"lugVLnS23V73tvL6","deleted":true}
-{"name":"eco-bricks.jpg","date":"2018-05-20T02:16:17.172Z","url":"https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Feco-bricks.jpg","type":"image/jpeg","size":20899,"imageWidth":275,"imageHeight":183,"thumbnail":"https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Feco-bricks.jpg","thumbnailWidth":275,"thumbnailHeight":183,"dominantColor":"rgb(30,33,31)","uuid":"Fili98sosx5OU9YX"}
-{"name":"favicon.ico","date":"2018-05-20T02:46:51.193Z","url":"https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Ffavicon.ico","type":"image/vnd.microsoft.icon","size":32038,"imageWidth":64,"imageHeight":64,"thumbnail":"https://cdn.glitch.com/37e28979-7f03-41e3-a08c-02f25b58e13b%2Ffavicon.ico","thumbnailWidth":64,"thumbnailHeight":64,"dominantColor":null,"uuid":"l75dAHqhHPYAHg1o"}
-{"name":"collecting.png","date":"2018-09-23T13:51:49.825Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fcollecting.png","type":"image/png","size":33419,"imageWidth":260,"imageHeight":305,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fcollecting.png","thumbnailWidth":260,"thumbnailHeight":305,"dominantColor":null,"uuid":"Pm8NiEKHi6p5AtIT"}
-{"name":"making.png","date":"2018-09-23T13:51:58.267Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fmaking.png","type":"image/png","size":33835,"imageWidth":260,"imageHeight":309,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fmaking.png","thumbnailWidth":260,"thumbnailHeight":309,"dominantColor":null,"uuid":"Q6BgF1imYB56j7nv"}
-{"uuid":"Fili98sosx5OU9YX","deleted":true}
-{"uuid":"7VbZynVAMql71u44","deleted":true}
-{"name":"logo.png","date":"2018-10-31T09:17:41.337Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Flogo.png","type":"image/png","size":36259,"imageWidth":501,"imageHeight":380,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fthumbnails%2Flogo.png","thumbnailWidth":330,"thumbnailHeight":251,"dominantColor":null,"uuid":"0nnj8fsmk14FppDw"}
-{"name":"phpThumb_generated_thumbnailico","date":"2018-10-31T09:19:54.812Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2FphpThumb_generated_thumbnailico","type":"","size":4286,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fthumbnails%2FphpThumb_generated_thumbnailico","thumbnailWidth":210,"thumbnailHeight":210,"dominantColor":"rgba(114, 192, 234, 0.60)","uuid":"H7VSlpSFkt0R33qx"}
+{
+  "name": "Ecobricks UK",
+  "short_name": "Ecobricks UK",
+  "theme_color": "#f3f6f8",
+  "background_color": "#f8f8f8",
+  "display": "browser",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "https://uk.ecobricks.org",
+  "icons": [
+    {
+      "src": "images/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+{"name":"icon-72x72.png","date":"2018-10-31T13:49:26.239Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-72x72.png","type":"image/png","size":5026,"imageWidth":72,"imageHeight":54,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-72x72.png","thumbnailWidth":72,"thumbnailHeight":54,"dominantColor":null,"uuid":"XhHS8ey1WjDrDVNu"}
+{"name":"icon-128x128.png","date":"2018-10-31T13:49:26.291Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-128x128.png","type":"image/png","size":11423,"imageWidth":128,"imageHeight":97,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-128x128.png","thumbnailWidth":128,"thumbnailHeight":97,"dominantColor":null,"uuid":"p2nUcLXMymugdAYZ"}
+{"name":"icon-96x96.png","date":"2018-10-31T13:49:26.308Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-96x96.png","type":"image/png","size":7689,"imageWidth":96,"imageHeight":72,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-96x96.png","thumbnailWidth":96,"thumbnailHeight":72,"dominantColor":null,"uuid":"NZj8dGULZFgCu8X6"}
+{"name":"icon-144x144.png","date":"2018-10-31T13:49:26.518Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-144x144.png","type":"image/png","size":13421,"imageWidth":144,"imageHeight":109,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-144x144.png","thumbnailWidth":144,"thumbnailHeight":109,"dominantColor":null,"uuid":"HbEL5DCT6pBdyNQs"}
+{"name":"icon-152x152.png","date":"2018-10-31T13:49:26.657Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-152x152.png","type":"image/png","size":14290,"imageWidth":152,"imageHeight":115,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-152x152.png","thumbnailWidth":152,"thumbnailHeight":115,"dominantColor":null,"uuid":"P0RhSCEoeFHXjBwt"}
+{"name":"icon-192x192.png","date":"2018-10-31T13:49:26.753Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-192x192.png","type":"image/png","size":19440,"imageWidth":192,"imageHeight":145,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-192x192.png","thumbnailWidth":192,"thumbnailHeight":145,"dominantColor":null,"uuid":"9K8HbFqrEDJQ3aSJ"}
+{"name":"icon-512x512.png","date":"2018-10-31T13:49:27.375Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-512x512.png","type":"image/png","size":36224,"imageWidth":501,"imageHeight":380,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fthumbnails%2Ficon-512x512.png","thumbnailWidth":330,"thumbnailHeight":251,"dominantColor":null,"uuid":"E19zaedKLUfbBnxa"}
+{"name":"icon-384x384.png","date":"2018-10-31T13:49:27.721Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Ficon-384x384.png","type":"image/png","size":44124,"imageWidth":384,"imageHeight":291,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fthumbnails%2Ficon-384x384.png","thumbnailWidth":330,"thumbnailHeight":251,"dominantColor":null,"uuid":"mA9Smj3x8Lyg7C8Y"}
+{"uuid":"XhHS8ey1WjDrDVNu","deleted":true}
+{"uuid":"p2nUcLXMymugdAYZ","deleted":true}
+{"uuid":"NZj8dGULZFgCu8X6","deleted":true}
+{"uuid":"HbEL5DCT6pBdyNQs","deleted":true}
+{"uuid":"P0RhSCEoeFHXjBwt","deleted":true}
+{"uuid":"9K8HbFqrEDJQ3aSJ","deleted":true}
+{"uuid":"E19zaedKLUfbBnxa","deleted":true}
+{"uuid":"mA9Smj3x8Lyg7C8Y","deleted":true}
+{"name":"ecobricks-logo.png","date":"2018-11-01T13:18:36.436Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fecobricks-logo.png","type":"image/png","size":106960,"imageWidth":1386,"imageHeight":1026,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fthumbnails%2Fecobricks-logo.png","thumbnailWidth":330,"thumbnailHeight":245,"dominantColor":null,"uuid":"UEF23B9vSizTds5R"}
+{"uuid":"UEF23B9vSizTds5R","deleted":true}
+{"name":"ecobricks-logo.png","date":"2018-11-01T13:19:46.557Z","url":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fecobricks-logo.png","type":"image/png","size":19189,"imageWidth":150,"imageHeight":111,"thumbnail":"https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fecobricks-logo.png","thumbnailWidth":150,"thumbnailHeight":111,"dominantColor":null,"uuid":"UJKa4hLdcYqfUT9H"}
+}

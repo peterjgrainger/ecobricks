@@ -288,21 +288,6 @@ function loadMap (mapOptions) {
   map.doubleClickZoom.disable()
   map.scrollWheelZoom.disable()
   addMarkerLayer(map, mapOptions)
-  
-  var legend = L.control({position: 'topright'});
-  
-  var collectingUrl = 'https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fcollecting.png?1537710709825';
-  var makingUrl = 'https://cdn.glitch.com/5b876c4c-51da-4cd7-b847-1e0e948cae3b%2Fmaking.png?1537710718267'
-
-//   legend.onAdd = function (map) {
-//     var div = L.DomUtil.create('div', 'legend');
-//     div.innerHTML +=  '<img src="'+collectingUrl+'">' + '     Collecting' + '<br>'
-//     div.innerHTML +=  '<img src="'+makingUrl+'">'  + '     Making' + '<br>'
-
-//     return div;
-//   };
-
-//   legend.addTo(map);
 }
 
 function makePopupTemplate (geoJSON) {
