@@ -24,18 +24,3 @@ function handleClick(val){
     document.getElementById('query').value = val;
     return true;
 }
-
-
-
-if ("geolocation" in navigator) {
-  navigator.geolocation.getCurrentPosition(function(position) {
-    var xmlhttp = new XMLHttpRequest();
-    xmlhttp.onreadystatechange = function() {
-      if (this.readyState == 4 && this.status == 200) {
-        document.getElementById('city').value = JSON.parse(this.responseText).address.city;
-      }
-    };
-    xmlhttp.open('GET', 'https://nominatim.openstreetmap.org/reverse?format=json&lat='+position.coords.latitude+'&lon='+position.coords.longitude+'&zoom=18&addressdetails=1');
-    xmlhttp.send();
-  });
-} 
