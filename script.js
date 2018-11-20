@@ -24,3 +24,7 @@ function handleClick(val){
     document.getElementById('query').value = val;
     return true;
 }
+
+function changeData(data) {
+  
+}
